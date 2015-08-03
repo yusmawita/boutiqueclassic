@@ -1,0 +1,6 @@
+
+
+<?php
+$koneksi=mysql_connect("172.16.41.59","root","yuni");
+$selectDatabase = mysql_select_db ("dbxen");
+?>

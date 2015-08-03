@@ -1,0 +1,33 @@
+Sistem :
+Finished :
+- reportnya harus diubah tampilan chart (by kategori ada select nya misalnya pilih kategori dress hanya keluar report dress) 
+	tapi bulan dan tahun tetap ada
+- informasi terbaru harus bisa lewat email (newsletter)
+- batas upload bukti trf hanya 2 hari, lebih dari itu dan masih belum diupload juga maka keranjang belanja kembali kosong 
+- tambah menu tata cara belanja 
+- lambang butik classic ada penjelasannya bahwa itu home 
+- sign up member harus ada field tanggal lahir
+- sms gate way bisa send sms ulang tahun ke member 
+- admin harus bisa balas komentar member
+- kuisioner menjadi optional, diletakan setelah member telah upload bukti trf dan ada link "silahkan isi kuisioner kami" (optional) kalo 
+		udah isi sekali hanya boleh sekali (insya allah bisa utk TA)
+- sms broadcast bisa pilih beberapa nomer member aja (tidak langsung all)
+
+
+Notes :
+- database nya di update lagi kak, jadi isi data nya ulang lg y kak. mudah2an udah gak ada error lg.
+- semua yg diminta di atas sudah bisa jalan kak.
+- silahkan dicoba semua fungsinya lagi kak.
+- untuk database yang baru :
+	- untuk table member, data member 'administrator' jangan dihapus, karena ini agar admin dapat membalas comment
+	- untuk table sms, data sms 'sms_ultah' jangan dihapus, karena ini sebagai penanda untuk cek apakah sms ultah sudah 
+	  dikirim pada hari tersebut atau belum dikirim. 
+	- jika data ini dihapus, akan terjadi error pada program.
+- untuk pengiriman email :
+	- menggunakan (php mailer). filenya yaitu terletak pada folder control :  "class.phpmailer.php","class.smtp.php",
+	- email untuk butik classic telah rizki buat kak di gmail.
+		Username   = "butikclassic01@gmail.com";  // GMAIL username
+		Password   = "mariavewiliya";            // GMAIL password
+	- untuk email ini rizki buat sebelumnya kak
+	-untuk fungsi pengiriman email terdapat pada file "control/fungsi.php" line 1469
+- lambang butik classic ada penjelasannya bahwa itu home  --> pada saat mouse berada diatas gambar, maka akan keluar tulisan home.
