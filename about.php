@@ -49,7 +49,7 @@
 	  <div id="collapseOne" class="accordion-body collapse"  >
 		<div class="accordion-inner">
 			Welcome To Our Website :)
-			<br/><br/>Butik Classic adalah online shop terpercaya sejak tahun 2009. Menyediakan berbagai kebutuhan wanita yaitu pakaian, tas impor, aksesoris, dll. Semua barang yg kami jual merupakan barang dengan kualitas terbaik dan harga sangat terjangkau. Harga sudah merupakan harga grosir tanpa minimum quantity order, harga juga sudah termasuk ongkir, cocok bagi Anda yg ingin menjadi langganan setia maupun reseller. Owner berdomisili di Pekanbaru, dengan lokasi gudang berbeda-beda untuk tiap album.
+			<br/><br/>ciadalah online shop terpercaya sejak tahun 2009. Menyediakan berbagai kebutuhan wanita yaitu pakaian, tas impor, aksesoris, dll. Semua barang yg kami jual merupakan barang dengan kualitas terbaik dan harga sangat terjangkau. Harga sudah merupakan harga grosir tanpa minimum quantity order, harga juga sudah termasuk ongkir, cocok bagi Anda yg ingin menjadi langganan setia maupun reseller. Owner berdomisili di Pekanbaru, dengan lokasi gudang berbeda-beda untuk tiap album.
 			
  
 		</div>
