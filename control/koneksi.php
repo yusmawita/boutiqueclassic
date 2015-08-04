@@ -1,4 +1,5 @@
 <?php
-$koneksi=mysql_connect("103.19.208.84","adminMygfY2","MRV_uygE89Sj");
-$selectDatabase = mysql_select_db ("dbxen");
+$koneksi=mysql_connect("127.3.163.2","admin5pfmC67","yj-tJd35B5hv");
+$selectDatabase = mysql_select_db ("butik");
 ?>
+
